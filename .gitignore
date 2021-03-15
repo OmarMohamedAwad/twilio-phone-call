@@ -5,5 +5,4 @@
 .gitkeep
 .env
 composer.phar
-.composer
 .ash_history
